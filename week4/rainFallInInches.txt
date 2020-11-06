@@ -1,0 +1,9 @@
+Manchester 1.45
+Portsmouth 0.35
+London 0.19
+Southampton 0.47
+Leeds 0.78
+Cardiff 1.65
+Birmingham 1.33
+Edinburgh 1.02
+Newcastle 0.43
